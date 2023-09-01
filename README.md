@@ -3,6 +3,7 @@
 - Atualmente estou cursando o 5° semestre de Engenharia de Software na Universidade de Brasília.
 - Sempre disposto a aprender novas tecnologias e ferramentas.
 - Alguns contatos com projetos web.
+- Contato: isaquefrasciawerner@gmail.com
 
 
   ![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaqueSH&show_icons=true&theme=dracula)
